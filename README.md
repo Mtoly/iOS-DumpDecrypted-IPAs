@@ -20,9 +20,9 @@
 
 |||抖音|||
 | --- | --- | --- | --- | --- |
-|[20.9.0](https://www.123pan.com/s/UPeRVv-ubdhH)|[20.8.0](https://www.123pan.com/s/UPeRVv-g7dhH)|[20.7.0](https://www.123pan.com/s/UPeRVv-F7dhH)|[20.6.0](https://www.123pan.com/s/UPeRVv-Y7dhH)|[20.5.0](https://www.123pan.com/s/UPeRVv-G7dhH)|
-|[20.3.0](https://www.123pan.com/s/UPeRVv-P7dhH)|[20.2.0](https://www.123pan.com/s/UPeRVv-X7dhH)|[20.1.0](https://www.123pan.com/s/UPeRVv-n7dhH)|[20.0.0](https://www.123pan.com/s/UPeRVv-27dhH)|[19.9.0](https://www.123pan.com/s/UPeRVv-s7dhH)|
-|[19.8.0](https://www.123pan.com/s/UPeRVv-W7dhH)|[19.7.0](https://www.123pan.com/s/UPeRVv-C7dhH)|
+|[21.0.0](https://www.123pan.com/s/UPeRVv-wZdhH)|[20.9.0](https://www.123pan.com/s/UPeRVv-ubdhH)|[20.8.0](https://www.123pan.com/s/UPeRVv-g7dhH)|[20.7.0](https://www.123pan.com/s/UPeRVv-F7dhH)|[20.6.0](https://www.123pan.com/s/UPeRVv-Y7dhH)|
+|[20.5.0](https://www.123pan.com/s/UPeRVv-G7dhH)|[20.3.0](https://www.123pan.com/s/UPeRVv-P7dhH)|[20.2.0](https://www.123pan.com/s/UPeRVv-X7dhH)|[20.1.0](https://www.123pan.com/s/UPeRVv-n7dhH)|[20.0.0](https://www.123pan.com/s/UPeRVv-27dhH)|
+|[19.9.0](https://www.123pan.com/s/UPeRVv-s7dhH)|[19.8.0](https://www.123pan.com/s/UPeRVv-W7dhH)|[19.7.0](https://www.123pan.com/s/UPeRVv-C7dhH)|
 
 
 |||TikTok|||
