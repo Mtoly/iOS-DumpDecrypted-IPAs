@@ -15,7 +15,7 @@
 
 |||微信|||
 | --- | --- | --- | --- | --- |
-|[8.0.24TF*](https://www.123pan.com/s/UPeRVv-mZdhH)|[8.0.23*](https://www.123pan.com/s/UPeRVv-bbdhH)|[8.0.22](https://www.123pan.com/s/UPeRVv-u7dhH)|[8.0.20](https://www.123pan.com/s/UPeRVv-U7dhH)|[8.0.18](https://www.123pan.com/s/UPeRVv-S7dhH)|
+|[8.0.24TF*](https://www.123pan.com/s/UPeRVv-NZdhH)|[8.0.23*](https://www.123pan.com/s/UPeRVv-bbdhH)|[8.0.22](https://www.123pan.com/s/UPeRVv-u7dhH)|[8.0.20](https://www.123pan.com/s/UPeRVv-U7dhH)|[8.0.18](https://www.123pan.com/s/UPeRVv-S7dhH)|
 |[8.0.17](https://www.123pan.com/s/UPeRVv-l7dhH)|[8.0.16](https://www.123pan.com/s/UPeRVv-77dhH)|[8.0.15](https://www.123pan.com/s/UPeRVv-b7dhH)|
 
 |||抖音|||
