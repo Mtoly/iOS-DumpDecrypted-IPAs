@@ -16,8 +16,8 @@
 
 |||微信|||
 | --- | --- | --- | --- | --- |
-|[8.0.25*](https://www.123pan.com/s/UPeRVv-VcdhH)|[8.0.24*](https://www.123pan.com/s/UPeRVv-IcdhH)|[8.0.23*](https://www.123pan.com/s/UPeRVv-bbdhH)|[8.0.22](https://www.123pan.com/s/UPeRVv-u7dhH)|[8.0.20](https://www.123pan.com/s/UPeRVv-U7dhH)|
-|[8.0.18](https://www.123pan.com/s/UPeRVv-S7dhH)|[8.0.17](https://www.123pan.com/s/UPeRVv-l7dhH)|[8.0.16](https://www.123pan.com/s/UPeRVv-77dhH)|[8.0.15](https://www.123pan.com/s/UPeRVv-b7dhH)|
+|[8.0.26*](https://www.123pan.com/s/UPeRVv-8idhH)|[8.0.25*](https://www.123pan.com/s/UPeRVv-VcdhH)|[8.0.24*](https://www.123pan.com/s/UPeRVv-IcdhH)|[8.0.23*](https://www.123pan.com/s/UPeRVv-bbdhH)|[8.0.22](https://www.123pan.com/s/UPeRVv-u7dhH)|
+|[8.0.20](https://www.123pan.com/s/UPeRVv-U7dhH)|[8.0.18](https://www.123pan.com/s/UPeRVv-S7dhH)|[8.0.17](https://www.123pan.com/s/UPeRVv-l7dhH)|[8.0.16](https://www.123pan.com/s/UPeRVv-77dhH)|[8.0.15](https://www.123pan.com/s/UPeRVv-b7dhH)|
 
 |||抖音|||
 | --- | --- | --- | --- | --- |
